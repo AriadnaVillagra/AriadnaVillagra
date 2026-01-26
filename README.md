@@ -1,16 +1,117 @@
-## Hi there 👋
 
-<!--
-**AriadnaVillagra/AriadnaVillagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ariadna Villagra
 
-Here are some ideas to get you started:
+Frontend Engineer with 3+ years of experience building **production-ready web and mobile applications**.  
+I focus on **clean architecture, scalable UI, and real-world integrations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true"
+        alt="Ariadna Villagra GitHub stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
+        alt="Most used languages"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## 🚀 Tech Stack
+
+### Frontend
+- React / Next.js
+- React Native
+- Flutter
+- TypeScript / JavaScript
+- Redux Toolkit, Zustand, TanStack Query
+
+### Mobile Architecture
+- MVVM architecture
+- Clean Architecture principles
+- Separation of concerns (UI / ViewModel / Domain / Data)
+- State management with ViewModels, Providers and custom abstractions
+
+---
+
+## 🧩 Architecture & Practices
+
+- Clean Architecture
+- MVVM 
+- Domain-Driven Design (DDD)
+- Modular & scalable codebases
+- Performance optimization
+- Component-driven UI
+- Strong focus on maintainability and readability
+
+---
+
+## 🔌 Integrations & APIs
+
+- RESTful API integration
+- Google APIs:
+  - Google Calendar
+  - Gmail API
+  - Google Authentication
+- Firebase (Auth, Firestore)
+- AWS services:
+  - AWS Cognito (authentication & user management)
+- Secure authentication flows (JWT, token refresh)
+- Async data handling and error states
+
+---
+
+## 🛠 Backend & Tooling
+
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+- AWS Cognito
+- Docker
+- GitHub Actions
+- CI/CD pipelines
+- Git / GitHub / GitLab
+
+---
+
+## 📌 Professional Experience Highlights
+
+- 📱 Mobile apps published on **Google Play Store & Apple App Store**
+- 🐾 **Petly** – mobile app built with **React Native** using **AWS Cognito** authentication
+- 🧩 **Staff / HR platform**:
+  - Frontend for vacation & license management
+  - Backend built with **Node.js, Express and MongoDB**
+  - Integration with **Google APIs** (Calendar, Gmail)
+- 🛒 Pharmaceutical sales platforms (tablet + web)
+- 🎥 Streaming tools, bots and custom overlays
+
+---
+
+## 🧠 What I Care About
+
+- Writing **clean, scalable code**
+- Clear architecture and separation of responsibilities
+- Turning complex requirements into intuitive user experiences
+- Working closely with product, design and backend teams
+- Continuous learning and improvement
+
+---
+
+## 🔗 Find Me Here
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ariadna-villagra/
+- 💻 GitHub: https://github.com/AriadnaVillagra
+
+---
+
+⭐ Always open to new challenges and meaningful projects.
