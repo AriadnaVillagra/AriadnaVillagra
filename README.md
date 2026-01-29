@@ -10,12 +10,6 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true"
-        alt="Ariadna Villagra GitHub stats"
-      />
-    </td>
-    <td align="center">
-      <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
         alt="Most used languages"
       />
