@@ -7,12 +7,27 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 ---
 
 <div style="text-align:center;">
+  <!-- GitHub stats (may be broken, intentionally visible) -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
-    alt="GitHub stats"
-    style="margin-bottom: 12px;"
+    alt="GitHub language stats"
+    style="margin-bottom: 14px;"
   />
 
+  <!-- Daria image -->
+  <img
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
+    width="260"
+    alt="Daria reaction"
+    style="
+      display: block;
+      margin: 0 auto 14px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(255, 129, 227, 0.35);
+    "
+  />
+
+  <!-- Error message -->
   <div style="
     max-width: 520px;
     margin: 0 auto;
@@ -31,6 +46,7 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
     <strong>This README is innocent.</strong>
   </div>
 </div>
+
 
 ---
 
