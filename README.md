@@ -6,40 +6,31 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 
 ---
 
-<p align="center">
+<div style="text-align:center;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
-    onerror="
-      this.style.display='none';
-      document.getElementById('daria-fallback').style.display='block';
-    "
-  />
-</p>
-
-<div id="daria-fallback" style="display:none; text-align:center;">
-  <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
-    width="260"
-    alt="Daria reaction"
+    alt="GitHub stats"
+    style="margin-bottom: 12px;"
   />
 
   <div style="
     max-width: 520px;
-    margin: 16px auto 0;
-    padding: 14px;
-    border-left: 4px solid #111;
-    font-family: monospace;
-    display: inline-block;
+    margin: 0 auto;
+    padding: 14px 16px;
+    border-left: 6px solid #ff81e3;
+    background: rgba(255, 129, 227, 0.08);
+    border-radius: 12px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
     text-align: left;
+    color: #f9fafb;
   ">
-    503 SERVICE_UNAVAILABLE<br/>
-    DEPLOYMENT_PAUSED<br/><br/>
+    <span style="color:#ff81e3; font-weight:600;">503 SERVICE_UNAVAILABLE</span><br/>
+    <span style="color:#00ffff;">DEPLOYMENT_PAUSED</span><br/><br/>
+
     Upstream service outage.<br/>
-    This README is innocent.
+    <strong>This README is innocent.</strong>
   </div>
 </div>
-
-
 
 ---
 
