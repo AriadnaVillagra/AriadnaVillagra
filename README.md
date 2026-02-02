@@ -29,7 +29,7 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 
 ## 🚀 Tech Stack
 
-<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/frontend-stack.svg?v=2" />
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/frontend-stack.svg?v=3" />
 
 <img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/web-architecture.svg?v=2" />
 
