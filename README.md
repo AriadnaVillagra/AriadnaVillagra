@@ -27,10 +27,11 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 
   <div style="
     max-width: 520px;
-    margin: 0 auto;
+    margin: 16px auto 0;
     padding: 14px;
     border-left: 4px solid #111;
     font-family: monospace;
+    display: inline-block;
     text-align: left;
   ">
     503 SERVICE_UNAVAILABLE<br/>
