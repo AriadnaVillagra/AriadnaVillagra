@@ -29,11 +29,11 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 
 ## 🚀 Tech Stack
 
-<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/frontend-stack.svg" />
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/frontend-stack.svg?v=2" />
 
-<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/web-architecture.svg" />
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/web-architecture.svg?v=2" />
 
-<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/mobile-architecture.svg" />
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/mobile-architecture.svg?v=2" />
 
 
 
