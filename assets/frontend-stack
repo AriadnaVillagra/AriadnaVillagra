@@ -1,0 +1,35 @@
+<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="0" y="0" width="700" height="300" rx="22" fill="#FAF4B7"/>
+  <rect x="14" y="14" width="672" height="272" rx="18" fill="#F9F9F9"/>
+
+  <text x="40" y="56" font-family="monospace" font-size="22" font-weight="700" fill="#F2A7D5">
+    🎨 Frontend Stack
+  </text>
+
+  <!-- React -->
+  <text x="40" y="96" font-family="monospace" font-size="15" fill="#374151">
+    • React / Next.js
+  </text>
+
+  <text x="58" y="118" font-family="monospace" font-size="13" fill="#6B7280">
+    <tspan x="58" dy="0">– Hooks & lifecycle</tspan>
+    <tspan x="58" dy="16">– State management (Redux, Zustand)</tspan>
+    <tspan x="58" dy="16">– Navigation & routing</tspan>
+    <tspan x="58" dy="16">– Dependency Injection & composition</tspan>
+  </text>
+
+  <!-- Flutter -->
+  <text x="40" y="200" font-family="monospace" font-size="15" fill="#374151">
+    • Dart / Flutter
+  </text>
+
+  <text x="58" y="222" font-family="monospace" font-size="13" fill="#6B7280">
+    <tspan x="58" dy="0">– Clean Architecture</tspan>
+    <tspan x="58" dy="16">– MVVM & feature-based structure</tspan>
+    <tspan x="58" dy="16">– Dependency Injection</tspan>
+    <tspan x="58" dy="16">– Platform channels</tspan>
+  </text>
+
+</svg>
+
