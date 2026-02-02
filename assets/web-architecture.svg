@@ -14,13 +14,13 @@
     • Feature-based organization
   </text>
   <text x="40" y="144" font-family="monospace" font-size="14" fill="#374151">
-    • Dependency Injection & composition
+    • Dependency Injection &amp; composition
   </text>
   <text x="40" y="168" font-family="monospace" font-size="14" fill="#374151">
-    • Routing, layouts & navigation flows
+    • Routing, layouts &amp; navigation flows
   </text>
   <text x="40" y="192" font-family="monospace" font-size="14" fill="#374151">
-    • Data fetching, caching & async states
+    • Data fetching, caching &amp; async states
   </text>
 
 </svg>
