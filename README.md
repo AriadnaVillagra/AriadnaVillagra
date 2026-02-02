@@ -17,13 +17,11 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 </p>
 
 <div id="daria-fallback" style="display:none; text-align:center;">
-  <p align="center">
-    <img
-      src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
-      width="260"
-      alt="Daria reaction"
-    />
-  </p>
+  <img
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
+    width="260"
+    alt="Daria reaction"
+  />
 
   <div style="
     max-width: 520px;
@@ -40,6 +38,7 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
     This README is innocent.
   </div>
 </div>
+
 
 
 ---
