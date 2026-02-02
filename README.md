@@ -17,16 +17,27 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 </p>
 
 <div id="daria-fallback" style="display:none; text-align:center;">
-  <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.png"
-    alt="Daria reaction"
-    width="280"
-  />
-  <p>
-    ⚠️ Stats temporarily unavailable.<br/>
-    Upstream service outage. This README is innocent.<br/>
-    Enjoy this Daria image instead.
+  <p align="center">
+    <img
+      src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
+      width="260"
+      alt="Daria reaction"
+    />
   </p>
+
+  <div style="
+    max-width: 520px;
+    margin: 0 auto;
+    padding: 14px;
+    border-left: 4px solid #111;
+    font-family: monospace;
+    text-align: left;
+  ">
+    503 SERVICE_UNAVAILABLE<br/>
+    DEPLOYMENT_PAUSED<br/><br/>
+    Upstream service outage.<br/>
+    This README is innocent.
+  </div>
 </div>
 
 
