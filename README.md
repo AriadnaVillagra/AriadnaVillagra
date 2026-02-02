@@ -7,46 +7,52 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 ---
 
 <div style="text-align:center;">
-  <!-- GitHub stats (may be broken, intentionally visible) -->
+  <!-- GitHub stats (may be broken on purpose) -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
     alt="GitHub language stats"
-    style="margin-bottom: 14px;"
+    style="margin-bottom: 16px;"
   />
 
-  <!-- Daria image -->
+  <!-- Daria -->
   <img
     src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
     width="260"
     alt="Daria reaction"
     style="
       display: block;
-      margin: 0 auto 14px;
+      margin: 0 auto 16px;
       border-radius: 12px;
       box-shadow: 0 8px 20px rgba(255, 129, 227, 0.35);
     "
   />
 
-  <!-- Error message -->
+  <!-- Error box -->
   <div style="
     max-width: 520px;
     margin: 0 auto;
-    padding: 14px 16px;
+    padding: 16px;
     border-left: 6px solid #ff81e3;
     background: rgba(255, 129, 227, 0.08);
     border-radius: 12px;
     font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-    text-align: left;
     color: #f9fafb;
+    text-align: left;
   ">
-    <span style="color:#ff81e3; font-weight:600;">503 SERVICE_UNAVAILABLE</span><br/>
-    <span style="color:#00ffff;">DEPLOYMENT_PAUSED</span><br/><br/>
-
-    Upstream service outage.<br/>
-    <strong>This README is innocent.</strong>
+    <div style="color:#ff81e3; font-weight:600;">
+      503 SERVICE_UNAVAILABLE
+    </div>
+    <div style="color:#00ffff; margin-bottom: 10px;">
+      DEPLOYMENT_PAUSED
+    </div>
+    <div>
+      Upstream service outage.
+    </div>
+    <div style="font-weight:600;">
+      This README is innocent.
+    </div>
   </div>
 </div>
-
 
 ---
 
