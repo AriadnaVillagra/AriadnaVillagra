@@ -6,16 +6,29 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
-        alt="Most used languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
+    onerror="
+      this.style.display='none';
+      document.getElementById('daria-fallback').style.display='block';
+    "
+  />
+</p>
+
+<div id="daria-fallback" style="display:none; text-align:center;">
+  <img
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.png"
+    alt="Daria reaction"
+    width="280"
+  />
+  <p>
+    ⚠️ Stats temporarily unavailable.<br/>
+    Upstream service outage. This README is innocent.<br/>
+    Enjoy this Daria image instead.
+  </p>
+</div>
+
 
 ---
 
