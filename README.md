@@ -13,7 +13,7 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
   />
 
   <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error.svg?v=2"
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error.svg?v=3"
     alt="Service unavailable"
   />
 
