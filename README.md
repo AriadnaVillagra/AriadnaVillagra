@@ -29,18 +29,9 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
 
 ## 🚀 Tech Stack
 
-### Frontend
-- React / Next.js
-- React Native
-- Flutter
-- TypeScript / JavaScript
-- Redux Toolkit, Zustand, TanStack Query
-
-### Mobile Architecture
-- MVVM architecture
-- Clean Architecture principles
-- Separation of concerns (UI / ViewModel / Domain / Data)
-- State management with ViewModels, Providers and custom abstractions
+<img src="assets/frontend-stack.svg" />
+<img src="assets/web-architecture.svg" />
+<img src="assets/mobile-architecture.svg" />
 
 ---
 
