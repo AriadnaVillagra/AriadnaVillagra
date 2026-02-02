@@ -62,4 +62,15 @@
   >
     This README is innocent.
   </text>
+
+    <text
+    x="24"
+    y="128"
+    font-family="monospace"
+    font-size="14"
+    font-weight="600"
+    fill="#ffffff"
+  >
+    Enjoy this Daria image instead
+  </text>
 </svg>
