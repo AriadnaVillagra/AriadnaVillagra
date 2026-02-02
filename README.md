@@ -28,30 +28,22 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
   />
 
   <!-- Error box -->
-  <div style="
-    max-width: 520px;
-    margin: 0 auto;
-    padding: 16px;
-    border-left: 6px solid #ff81e3;
-    background: rgba(255, 129, 227, 0.08);
-    border-radius: 12px;
-    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-    color: #f9fafb;
-    text-align: left;
-  ">
-    <div style="color:#ff81e3; font-weight:600;">
-      503 SERVICE_UNAVAILABLE
-    </div>
-    <div style="color:#00ffff; margin-bottom: 10px;">
-      DEPLOYMENT_PAUSED
-    </div>
-    <div>
-      Upstream service outage.
-    </div>
-    <div style="font-weight:600;">
-      This README is innocent.
-    </div>
-  </div>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
+    alt="GitHub language stats"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
+    width="260"
+    alt="Daria reaction"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error.svg"
+    alt="Service unavailable"
+  />
 </div>
 
 ---
