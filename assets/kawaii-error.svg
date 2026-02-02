@@ -1,12 +1,13 @@
 <svg width="520" height="190" viewBox="0 0 520 190" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
+  <!-- Background (error soft) -->
   <rect
     x="0"
     y="0"
     width="520"
     height="190"
     rx="20"
-    fill="#FAF4B7"
+    fill="#FDECEC"
   />
 
   <!-- Inner card -->
@@ -16,7 +17,7 @@
     width="496"
     height="166"
     rx="16"
-    fill="#F9F9F9"
+    fill="#FFF7F7"
   />
 
   <!-- Accent dot -->
@@ -24,7 +25,7 @@
     cx="32"
     cy="36"
     r="6"
-    fill="#F2A7D5"
+    fill="#F28FB2"
   />
 
   <!-- Title -->
@@ -34,7 +35,7 @@
     font-family="monospace"
     font-size="18"
     font-weight="700"
-    fill="#F2A7D5"
+    fill="#E2557A"
   >
     503 SERVICE_UNAVAILABLE
   </text>
@@ -46,7 +47,7 @@
     font-family="monospace"
     font-size="16"
     font-weight="600"
-    fill="#8FD9D1"
+    fill="#E8A4B8"
   >
     DEPLOYMENT_PAUSED
   </text>
@@ -57,7 +58,7 @@
     y="110"
     font-family="monospace"
     font-size="14"
-    fill="#374151"
+    fill="#4B5563"
   >
     Upstream service outage.
   </text>
@@ -69,7 +70,7 @@
     font-family="monospace"
     font-size="14"
     font-weight="600"
-    fill="#111827"
+    fill="#1F2937"
   >
     This README is innocent.
   </text>
@@ -80,8 +81,10 @@
     y="160"
     font-family="monospace"
     font-size="13"
-    fill="#9CA3AF"
+    fill="#6B7280"
   >
     Enjoy this Daria image instead.
   </text>
+
 </svg>
+
