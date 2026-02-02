@@ -5,15 +5,6 @@ Frontend Engineer with 3+ years of experience building **production-ready web an
 I focus on **clean architecture, scalable UI, and real-world integrations**.
 
 ---
-
-<div style="text-align:center;">
-  <!-- GitHub stats (may be broken on purpose) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
-    alt="GitHub language stats"
-    style="margin-bottom: 16px;"
-  />
-
   <!-- Error box -->
 <div align="center">
   <img
