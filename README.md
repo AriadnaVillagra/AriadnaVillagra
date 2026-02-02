@@ -14,19 +14,6 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
     style="margin-bottom: 16px;"
   />
 
-  <!-- Daria -->
-  <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
-    width="260"
-    alt="Daria reaction"
-    style="
-      display: block;
-      margin: 0 auto 16px;
-      border-radius: 12px;
-      box-shadow: 0 8px 20px rgba(255, 129, 227, 0.35);
-    "
-  />
-
   <!-- Error box -->
 <div align="center">
   <img
