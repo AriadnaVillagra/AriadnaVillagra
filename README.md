@@ -22,14 +22,14 @@ I focus on **clean architecture, scalable UI, and real-world integrations**.
   />
 
   <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
-    width="260"
-    alt="Daria reaction"
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error.svg"
+    alt="Service unavailable"
   />
 
   <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error.svg"
-    alt="Service unavailable"
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
+    width="260"
+    alt="Daria reaction"
   />
 </div>
 
