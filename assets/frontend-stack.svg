@@ -13,10 +13,10 @@
   </text>
 
   <text x="58" y="118" font-family="monospace" font-size="13" fill="#6B7280">
-    <tspan x="58" dy="0">– Hooks & lifecycle</tspan>
+    <tspan x="58" dy="0">– Hooks &amp; lifecycle</tspan>
     <tspan x="58" dy="16">– State management (Redux, Zustand)</tspan>
-    <tspan x="58" dy="16">– Navigation & routing</tspan>
-    <tspan x="58" dy="16">– Dependency Injection & composition</tspan>
+    <tspan x="58" dy="16">– Navigation &amp; routing</tspan>
+    <tspan x="58" dy="16">– Dependency Injection &amp; composition</tspan>
   </text>
 
   <!-- Flutter -->
@@ -26,7 +26,7 @@
 
   <text x="58" y="222" font-family="monospace" font-size="13" fill="#6B7280">
     <tspan x="58" dy="0">– Clean Architecture</tspan>
-    <tspan x="58" dy="16">– MVVM & feature-based structure</tspan>
+    <tspan x="58" dy="16">– MVVM &amp; feature-based structure</tspan>
     <tspan x="58" dy="16">– Dependency Injection</tspan>
     <tspan x="58" dy="16">– Platform channels</tspan>
   </text>
