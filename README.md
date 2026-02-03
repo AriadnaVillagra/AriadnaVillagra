@@ -10,12 +10,16 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
     alt="GitHub language stats"
   />
-
+  
+  <br/><br/>
+  
   <img
     src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v2.svg?v=3"
     alt="Service unavailable"
   />
-
+  
+  <br/><br/>
+  
   <img
     src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
     width="260"
