@@ -1,0 +1,45 @@
+<svg width="700" height="320" viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="700" height="320" fill="#111827"/>
+
+  <!-- Title bar -->
+  <rect width="700" height="28" fill="#F2A7D5"/>
+  <text
+    x="12"
+    y="19"
+    font-family="monospace"
+    font-size="12"
+    fill="#1F2937"
+  >
+    MINGW64:/c/Users/ariad/Desktop (works on my machine)
+  </text>
+
+  <!-- Terminal content -->
+  <text
+    x="16"
+    y="56"
+    font-family="monospace"
+    font-size="14"
+    fill="#E5E7EB"
+  >
+    <tspan x="16" dy="0">ariad@MAKTUB MINGW64 ~/Desktop</tspan>
+    <tspan x="16" dy="18">$ stack</tspan>
+
+    <tspan x="16" dy="22" fill="#F2A7D5">React</tspan>
+    <tspan x="16" dy="18" fill="#F2A7D5">React Native</tspan>
+    <tspan x="16" dy="18" fill="#F2A7D5">Flutter</tspan>
+    <tspan x="16" dy="18" fill="#F2A7D5">TypeScript</tspan>
+    <tspan x="16" dy="18" fill="#F2A7D5">JavaScript</tspan>
+
+    <tspan x="16" dy="22" fill="#9CA3AF">Python</tspan>
+    <tspan x="16" dy="18" fill="#9CA3AF">Rust</tspan>
+    <tspan x="16" dy="18" fill="#9CA3AF">Some language I never used before</tspan>
+
+    <tspan x="16" dy="26" fill="#CDF0EA">It’s not the language.</tspan>
+    <tspan x="16" dy="20" fill="#CDF0EA">It’s understanding the system.</tspan>
+    <tspan x="16" dy="20" fill="#FAF4B7">The rest is syntax.</tspan>
+  </text>
+
+</svg>
+
