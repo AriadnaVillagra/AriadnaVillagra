@@ -46,7 +46,7 @@
 ---
 ## 🧰 Tools I work with
 
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,figma,mysql,mongodb,discord,unity&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,figma,discord,unity&theme=light)](https://skillicons.dev)
 
 
 ---
