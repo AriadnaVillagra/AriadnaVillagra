@@ -40,18 +40,6 @@
 
 ---
 
-## 🧩 Architecture & Practices
-
-- Clean Architecture
-- MVVM 
-- Domain-Driven Design (DDD)
-- Modular & scalable codebases
-- Performance optimization
-- Component-driven UI
-- Strong focus on maintainability and readability
-
----
-
 ## 🔌 Integrations & APIs
 
 - RESTful API integration
