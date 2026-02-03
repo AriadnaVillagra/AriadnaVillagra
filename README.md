@@ -40,35 +40,6 @@
 
 ---
 
-## 🔌 Integrations & APIs
-
-- RESTful API integration
-- Google APIs:
-  - Google Calendar
-  - Gmail API
-  - Google Authentication
-- Firebase (Auth, Firestore)
-- AWS services:
-  - AWS Cognito (authentication & user management)
-- Secure authentication flows (JWT, token refresh)
-- Async data handling and error states
-
----
-
-## 🛠 Backend & Tooling
-
-- Node.js
-- Express
-- MongoDB
-- REST APIs
-- AWS Cognito
-- Docker
-- GitHub Actions
-- CI/CD pipelines
-- Git / GitHub / GitLab
-
----
-
 ## 📌 Professional Experience Highlights
 
 - 📱 Mobile apps published on **Google Play Store & Apple App Store**
