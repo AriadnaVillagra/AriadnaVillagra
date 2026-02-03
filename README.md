@@ -14,7 +14,7 @@
   <br/><br/>
   
   <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v2.svg?v=3"
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v3.svg?v=4"
     alt="Service unavailable"
   />
   
