@@ -117,10 +117,6 @@
       <animate attributeName="opacity" from="0" to="1" begin="loop.begin+8.2s" dur="0.3s" fill="freeze"/>
     </tspan>
 
-    <tspan x="16" dy="20" fill="#FAF4B7" opacity="0">
-      Frontend is harder — that’s why I’m there.
-      <animate attributeName="opacity" from="0" to="1" begin="loop.begin+8.8s" dur="0.3s" fill="freeze"/>
-    </tspan>
 
     <!-- Cursor -->
     <tspan x="16" dy="22" fill="#F2A7D5">
