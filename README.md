@@ -39,7 +39,9 @@
 <img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/architecture-v2.svg" />
 
 ---
+## 🖥️ Things I’ve built
 
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/experience.svg" />
 
 ---
 
