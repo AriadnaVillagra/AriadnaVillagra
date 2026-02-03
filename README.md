@@ -34,7 +34,7 @@
 
 <img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/frontend-stack-v4.svg" />
 
-<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/architecture.svg" />
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/architecture-v2.svg" />
 
 
 
