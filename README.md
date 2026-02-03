@@ -41,7 +41,7 @@
 ---
 ## 🖥️ Things I’ve built
 
-<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/experience.svg" />
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/experience-v2.svg" />
 
 ---
 ## 🧰 Tools I work with
