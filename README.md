@@ -32,7 +32,7 @@
 
 ## 🚀 Tech Stack
 
-<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/tech-stack.svg" />
+<img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/tech-stack-v2.svg" />
 
 ## 🧩 Frontend Architecture
 
