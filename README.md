@@ -40,26 +40,6 @@
 
 ---
 
-## 📌 Professional Experience Highlights
-
-- 📱 Mobile apps published on **Google Play Store & Apple App Store**
-- 🐾 **Petly** – mobile app built with **React Native** using **AWS Cognito** authentication
-- 🧩 **Staff / HR platform**:
-  - Frontend for vacation & license management
-  - Backend built with **Node.js, Express and MongoDB**
-  - Integration with **Google APIs** (Calendar, Gmail)
-- 🛒 Pharmaceutical sales platforms (tablet + web)
-- 🎥 Streaming tools, bots and custom overlays
-
----
-
-## 🧠 What I Care About
-
-- Writing **clean, scalable code**
-- Clear architecture and separation of responsibilities
-- Turning complex requirements into intuitive user experiences
-- Working closely with product, design and backend teams
-- Continuous learning and improvement
 
 ---
 
