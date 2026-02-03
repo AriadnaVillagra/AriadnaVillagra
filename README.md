@@ -1,18 +1,7 @@
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.herokuapp.com
-      ?font=Montserrat
-      &weight=500
-      &size=24
-      &pause=1000
-      &color=F2A7D5
-      &width=750
-      &lines=Frontend+Engineer.;I+turn+requirements+into+software.;Clean+architecture+because+chaos+is+tiring.;Yes%2C+it+scales."
-    alt="Typing intro"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=500&size=24&pause=1000&color=F2A7D5&width=750&lines=Frontend+Engineer.;I+turn+requirements+into+software.;Clean+architecture+because+chaos+is+tiring.;Yes%2C+it+scales." alt="Typing intro" />
 </a>
-
 
 ---
   <!-- Error box -->
