@@ -44,11 +44,10 @@
 <img src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/experience.svg" />
 
 ---
+## 🧰 Tools I work with
 
-## 🔗 Find Me Here
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,jira,mysql,mongodb&theme=light)](https://skillicons.dev)
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ariadna-villagra/
-- 💻 GitHub: https://github.com/AriadnaVillagra
 
 ---
 
