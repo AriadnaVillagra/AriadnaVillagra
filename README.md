@@ -59,4 +59,5 @@
   />
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ariadna-villagra/)
-- 📄 [CV (PDF, more details if you’re into that)](./assets/Currículum Ariadna Villagra (EN).pdf)
+- 📄 [CV (PDF, more details if you’re into that)](./assets/Curr%C3%ADculum%20Ariadna%20Villagra%20%28EN%29.pdf)
+
