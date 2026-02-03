@@ -6,7 +6,7 @@
   <!-- Top bar -->
   <rect width="700" height="36" fill="#F2A7D5"/>
   <text x="12" y="23" font-family="monospace" font-size="13" fill="#1F2937">
-    Postman — GET /experience
+    Postman — yes, I actually use this
   </text>
 
   <!-- Request bar -->
