@@ -45,7 +45,7 @@
     entities, repository interfaces
   </text>
 
-  <text x="32" y="240" font-family="monospace" font-size="14" fill="#111827">
+  <text x="32" y="238" font-family="monospace" font-size="14" fill="#111827">
     📁 data
   </text>
   <text x="52" y="268" font-family="monospace" font-size="12" fill="#6B7280">
@@ -53,10 +53,10 @@
   </text>
 
   <!-- Footer (Daria style) -->
-  <text x="32" y="334" font-family="monospace" font-size="12" fill="#6B7280">
+  <text x="32" y="325" font-family="monospace" font-size="12" fill="#6B7280">
     This is one architecture I like.
   </text>
-  <text x="32" y="350" font-family="monospace" font-size="12" fill="#6B7280">
+  <text x="32" y="330" font-family="monospace" font-size="12" fill="#6B7280">
     It won’t end global warming. I’m still learning.
   </text>
 
