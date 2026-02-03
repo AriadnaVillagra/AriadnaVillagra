@@ -48,7 +48,15 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,figma,discord,unity&theme=light)](https://skillicons.dev)
 
-
 ---
 
-⭐ Always open to new challenges and meaningful projects.
+## 🔗 Connect
+
+  <img
+    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/busines-cat.gif"
+    width="260"
+    alt="Business cat"
+  />
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ariadna-villagra/)
+- 📄 [CV (PDF, more details if you’re into that)](./assets/Ariadna_Villagra_CV.pdf)
