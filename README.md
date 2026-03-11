@@ -70,13 +70,13 @@ width="260"
 
 ## 🔗 Connect
 
+<div align="center">
+  
 <img
 src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/busines-cat.gif"
 width="260"
 alt="Business cat"
 />
-
-<div align="center">
 
 <a href="https://linkedin.com/in/ariadna-villagra">
 <img src="https://img.shields.io/badge/LinkedIn-F2A7D5?style=for-the-badge&logo=linkedin&logoColor=white"/>
