@@ -9,10 +9,10 @@
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2A7D5&text_color=F2A7D5&icon_color=F2A7D5"
+  src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2A7D5&text_color=ffffff&icon_color=F2A7D5"
 /><img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true&bg_color=00000000&title_color=F2A7D5&text_color=F2A7D5"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true&bg_color=00000000&title_color=F2A7D5&text_color=ffffff"
   alt="GitHub language stats"
   onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v3.svg';"
 />
@@ -21,7 +21,7 @@
 
 <img
   height="165"
-  src="https://streak-stats.demolab.com?user=AriadnaVillagra&hide_border=true&background=00000000&ring=F2A7D5&fire=F2A7D5&currStreakLabel=F2A7D5&sideLabels=F2A7D5&dates=F2A7D5"
+  src="https://streak-stats.demolab.com?user=AriadnaVillagra&hide_border=true&background=00000000&ring=F2A7D5&fire=F2A7D5&currStreakLabel=F2A7D5&sideLabels=ffffff&dates=ffffff"
 />
 
 <br/><br/>
