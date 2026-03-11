@@ -9,7 +9,7 @@
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true&theme=dark&bg_color=ffffff&title_color=F2A7D5&icon_color=F2A7D5"
+  src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true&theme=dark&bg_color=F9F9F9&title_color=F2A7D5&icon_color=F2A7D5"
 /><img
   height="165"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true&theme=dark&bg_color=ffffff&title_color=F2A7D5"
