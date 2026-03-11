@@ -98,7 +98,8 @@ alt="Business cat"
 
 <a id="secret"></a>
 
----
+<details>
+<summary>Something happened...</summary>
 
 You clicked the mysterious button.
 
@@ -107,4 +108,6 @@ There was no reward.
 Only disappointment.
 
 Which, to be fair, is very on brand.
+
+</details>
 
