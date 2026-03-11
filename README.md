@@ -5,27 +5,45 @@
 
 ---
 
-<div align="center">
+<table align="center">
+<tr>
 
-<div style="position: relative; width:720px">
-
-<img src="assets/github-dashboard-frame-v4.svg" width="720"/>
+<td>
 
 <img
-style="position:absolute; left:34px; top:184px;"
-height="140"
 src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true&theme=dark&bg_color=FFFFFF&title_color=F2A7D5&icon_color=F2A7D5"
+onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v3.svg';"
 />
+
+</td>
+
+<td>
 
 <img
-style="position:absolute; left:374px; top:184px;"
-height="140"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true&theme=dark&bg_color=FFFFFF&title_color=F2A7D5"
+onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v3.svg';"
 />
 
-</div>
+</td>
 
-</div>
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<br>
+
+<img
+src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
+width="260"
+/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
