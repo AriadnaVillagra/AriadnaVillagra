@@ -101,7 +101,7 @@ alt="Business cat"
 <br>
 
 <a href="https://linkedin.com/in/ariadna-villagra">
-<img src="https://img.shields.io/badge/LinkedIn-F2A7D5?style=for-the-badge&logo=linkedin-in&logoColor=white"/>
+<img src="https://img.shields.io/badge/Professional_Human-F2A7D5?style=for-the-badge"/>
 </a>
 
 <a href="mailto:ariadna.v@outlook.com.ar">
