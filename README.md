@@ -93,9 +93,7 @@ alt="Business cat"
 <a href="#secret">
 <img src="https://img.shields.io/badge/Don't_Click-F6C6EA?style=for-the-badge"/>
 </a>
-
 <br><br>
-
 <details id="secret">
 <summary>...</summary>
 
