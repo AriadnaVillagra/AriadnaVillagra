@@ -4,27 +4,23 @@
 </a>
 
 ---
-  <!-- Error box -->
+
 <div align="center">
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true"
     alt="GitHub language stats"
+    onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v3.svg';"
   />
-  
+
   <br/><br/>
-  
-  <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v3.svg?v=4"
-    alt="Service unavailable"
-  />
-  
-  <br/><br/>
-  
+
   <img
     src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
     width="260"
     alt="Daria reaction"
   />
+
 </div>
 
 ---
