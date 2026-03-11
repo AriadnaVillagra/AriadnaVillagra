@@ -7,17 +7,9 @@
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true&theme=dark&bg_color=F9F9F9&title_color=F2A7D5&icon_color=F2A7D5"
-/><img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true&theme=dark&bg_color=ffffff&title_color=F2A7D5"
-  alt="GitHub language stats"
-  onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/kawaii-error-v3.svg';"
-/>
+<img src="assets/github-dashboard.svg" width="720"/>
 
-<br/><br/>
+</div>
 
 <img
   src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
