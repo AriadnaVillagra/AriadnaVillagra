@@ -94,10 +94,12 @@ alt="Business cat"
 <img src="https://img.shields.io/badge/Don't_Click-F6C6EA?style=for-the-badge"/>
 </a>
 
-<a id="secret"></a>
+<br><br>
 
-<details>
-<summary>I told you not to click.</summary>
+<details id="secret">
+<summary>...</summary>
+
+I told you not to click.
 
 Well, you did it anyway.
 
