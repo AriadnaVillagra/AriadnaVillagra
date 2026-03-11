@@ -7,15 +7,23 @@
 
 <div align="center">
 
-<img src="assets/github-stats-card-v3.svg" width="720"/>
+<div style="position: relative; width:720px">
 
-</div>
+<img src="assets/github-dashboard-frame.svg" width="720"/>
 
 <img
-  src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
-  width="260"
-  alt="Daria reaction"
+style="position:absolute; left:34px; top:184px;"
+height="140"
+src="https://github-readme-stats.vercel.app/api?username=AriadnaVillagra&show_icons=true&hide_border=true&theme=dark&bg_color=FFFFFF&title_color=F2A7D5&icon_color=F2A7D5"
 />
+
+<img
+style="position:absolute; left:374px; top:184px;"
+height="140"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriadnaVillagra&layout=compact&hide_border=true&theme=dark&bg_color=FFFFFF&title_color=F2A7D5"
+/>
+
+</div>
 
 </div>
 
