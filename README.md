@@ -21,7 +21,7 @@
 
 <img
   height="165"
-  src="https://streak-stats.demolab.com?user=AriadnaVillagra&theme=dark&background=ffffff&hide_border=true&ring=F2A7D5&fire=F2A7D5&currStreakLabel=F2A7D5"
+  src="https://streak-stats.demolab.com?user=AriadnaVillagra&theme=dark&background=F9F9F9&hide_border=true&ring=F2A7D5&fire=F2A7D5&currStreakLabel=F2A7D5"
 />
 
 <br/><br/>
