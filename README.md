@@ -78,12 +78,8 @@ width="260"
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ariadna-villagra">
+<a href="https://linkedin.com/in/TU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-F2A7D5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AriadnaVillagra">
-<img src="https://img.shields.io/badge/GitHub-CDF0EA?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="mailto:ariadna.v@outlook.com.ar">
@@ -91,7 +87,11 @@ width="260"
 </a>
 
 <a href="https://ariadnavillagra.github.io">
-<img src="https://img.shields.io/badge/Portfolio-F6C6EA?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-CDF0EA?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+
+<a href="#secret">
+<img src="https://img.shields.io/badge/Don't_Click-F6C6EA?style=for-the-badge"/>
 </a>
 
 </div>
