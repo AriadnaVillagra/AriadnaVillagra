@@ -9,7 +9,7 @@
 
 <div style="position: relative; width:720px">
 
-<img src="assets/github-dashboard-frame.svg" width="720"/>
+<img src="assets/github-dashboard-frame-v4.svg" width="720"/>
 
 <img
 style="position:absolute; left:34px; top:184px;"
