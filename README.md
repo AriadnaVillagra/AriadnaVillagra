@@ -94,20 +94,13 @@ alt="Business cat"
 <img src="https://img.shields.io/badge/Don't_Click-F6C6EA?style=for-the-badge"/>
 </a>
 
-</div>
-
 <a id="secret"></a>
 
 <details>
-<summary>Something happened...</summary>
+<summary>I told you not to click.</summary>
 
-You clicked the mysterious button.
+Well, you did it anyway.
 
-There was no reward.
-
-Only disappointment.
-
-Which, to be fair, is very on brand.
+I hope you're proud of yourself.
 
 </details>
-
