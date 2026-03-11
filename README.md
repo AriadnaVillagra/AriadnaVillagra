@@ -76,6 +76,23 @@ width="260"
     alt="Business cat"
   />
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ariadna-villagra/)
-- 📄 [CV (PDF, more details if you’re into that)](./assets/Curr%C3%ADculum%20Ariadna%20Villagra%20%28EN%29.pdf)
+<div align="center">
+
+<a href="https://linkedin.com/in/ariadna-villagra">
+<img src="https://img.shields.io/badge/LinkedIn-F2A7D5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AriadnaVillagra">
+<img src="https://img.shields.io/badge/GitHub-CDF0EA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="mailto:ariadna.v@outlook.com.ar">
+<img src="https://img.shields.io/badge/Email-FAF4B7?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://ariadnavillagra.github.io">
+<img src="https://img.shields.io/badge/Portfolio-F6C6EA?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+
+</div>
 
