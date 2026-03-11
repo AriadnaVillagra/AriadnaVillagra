@@ -78,7 +78,7 @@ width="260"
 
 <div align="center">
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://linkedin.com/in/ariadna-villagra">
 <img src="https://img.shields.io/badge/LinkedIn-F2A7D5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
