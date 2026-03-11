@@ -20,6 +20,13 @@
 <br/><br/>
 
 <img
+  height="165"
+  src="https://streak-stats.demolab.com?user=AriadnaVillagra&hide_border=true&background=00000000&ring=F2A7D5&fire=F2A7D5&currStreakLabel=F2A7D5&sideLabels=F2A7D5&dates=F2A7D5"
+/>
+
+<br/><br/>
+
+<img
   src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/daria.gif"
   width="260"
   alt="Daria reaction"
