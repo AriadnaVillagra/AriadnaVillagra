@@ -70,11 +70,11 @@ width="260"
 
 ## 🔗 Connect
 
-  <img
-    src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/busines-cat.gif"
-    width="260"
-    alt="Business cat"
-  />
+<img
+src="https://raw.githubusercontent.com/AriadnaVillagra/AriadnaVillagra/main/assets/busines-cat.gif"
+width="260"
+alt="Business cat"
+/>
 
 <div align="center">
 
@@ -95,4 +95,16 @@ width="260"
 </a>
 
 </div>
+
+<a id="secret"></a>
+
+---
+
+You clicked the mysterious button.
+
+There was no reward.
+
+Only disappointment.
+
+Which, to be fair, is very on brand.
 
